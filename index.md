@@ -1,11 +1,11 @@
 # Yiwen Cao
 ### Graduate Students
 #### Advised by: Prof. Qingyao Wu and Prof. Yanxia Liu
-Research interest: computer vision, matchine learning
+Research interest: computer vision, machine learning
 
 ## Education　
-- 2021–*now*,  Nanyang Technological University (NTU), Graduate Students
+- 2021–*now*, South China University of Technology (SCUT), Graduate Students
   - Software Engineering
 
 ## Preprints and Publications
-- 
+- Yukun Su, Guosheng Lin, Yun Hao, **Yiwen Cao**, Wenjun Wang, and Qingyao Wu. "Variational Disentanglement for Domain Generalization" AAAI Conference on Artificial Intelligence (2022)
