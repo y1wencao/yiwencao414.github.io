@@ -1,10 +1,10 @@
 # Yiwen Cao
-### Graduate Students
+### MS Students
 #### Advised by: Prof. Qingyao Wu and Prof. Yanxia Liu
 Research interest: computer vision, machine learning
 
 ## Education　
-- 2021–*now*, South China University of Technology (SCUT), Graduate Students
+- 2021–*now*, South China University of Technology (SCUT), MS Students
   - Software Engineering
 
 ## Preprints and Publications
