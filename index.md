@@ -8,4 +8,4 @@ Research interest: computer vision, machine learning
   - Software Engineering
 
 ## Preprints and Publications
-- Yukun Su, Guosheng Lin, Yun Hao, **Yiwen Cao**, Wenjun Wang, and Qingyao Wu. "Variational Disentanglement for Domain Generalization" AAAI Conference on Artificial Intelligence (2022)
+- Yukun Su, Guosheng Lin, Yun Hao, **Yiwen Cao**, Wenjun Wang, and Qingyao Wu. "Self-Supervised Object Localization with Joint Graph Partition" AAAI Conference on Artificial Intelligence (2022)
